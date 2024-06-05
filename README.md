@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravikant Pandey</h1>
 <h3 align="center">A passionate software developer from India</h3>
-
+#  🥇 *_First Solve the Problem then `Write the Code`_*
 - 🔭 I’m currently working on **Spring Boot by Java**
 
 - 🌱 I’m currently learning **Spring Boot**
@@ -8,6 +8,7 @@
 - 👯 I’m looking to collaborate on **Hibernate/Spring**
 
 - 🤝 I’m looking for help with **Angular/React/Node.js**
+- ## PortFolio Link : `https://theravi01.github.io/Portfolio-site/` [Here](https://theravi01.github.io/Portfolio-site/)
 - ```java    
    while (noSuccess)
    {
