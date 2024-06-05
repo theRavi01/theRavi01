@@ -8,6 +8,14 @@
 - 👯 I’m looking to collaborate on **Hibernate/Spring**
 
 - 🤝 I’m looking for help with **Angular/React/Node.js**
+- ```java    
+   while (noSuccess)
+   {
+       tryAgain();
+       if(Dead)
+       break;
+   }
+   ```
 
 - 📫 How to reach me **ravikantpandey9125@gmail.com**
 
