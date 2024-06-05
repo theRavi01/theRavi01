@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravikant Pandey</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theravi01&label=Profile%20views&color=0e75b6&style=flat" alt="theravi01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=theRavi01&label=Profile%20views&color=0e75b6&style=flat" alt="theRavi01" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theravi01" alt="theravi01" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Spring Boot by Java**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Spring Boot & Angular**
 
 - 👯 I’m looking to collaborate on **Hibernate/Spring**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ravikantpandey9125@gmail.com**
 
-- 📄 Know about my experiences [theravi01.github.io/Portfolio-site/](theravi01.github.io/Portfolio-site/)
+- 📄 Know about my experiences [theRavi01.github.io/Portfolio-site/](theRavi01.github.io/Portfolio-site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
