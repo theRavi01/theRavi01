@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ravikantpandey9125@gmail.com**
 
-- 📄 Know about my experiences [theRavi01.github.io/Portfolio-site/](theRavi01.github.io/Portfolio-site/)
+- 📄 Know about my experiences [theravi01.github.io/Portfolio-site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
